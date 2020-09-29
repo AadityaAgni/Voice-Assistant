@@ -30,8 +30,7 @@ path = os.path.dirname(__file__)
 
 user = path.split('\\')
 user = user[2]
-#----------------------------------------------------------
-#user = 'aadia'
+
 
 print(user)
 with open(path + '\\preferences.pickle', 'rb') as f:
