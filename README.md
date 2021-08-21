@@ -1,5 +1,6 @@
 # Voice-Assistant
-A voice assistant that me and my friend made for CodeDay
+
+A Voice Assistant with Basic Functions
 
 Only works on Windows
 
